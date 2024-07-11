@@ -1,0 +1,6 @@
+INFO:root:[ 4 56 57 34 97 34]
+INFO:root:TYPE:int64
+INFO:root:<class 'numpy.ndarray'>
+INFO:root:[1 2 3 4 5]
+INFO:root:(1, 5)
+INFO:root:2
