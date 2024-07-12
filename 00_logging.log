@@ -4,3 +4,70 @@ INFO:root:<class 'numpy.ndarray'>
 INFO:root:[1 2 3 4 5]
 INFO:root:(1, 5)
 INFO:root:2
+INFO:root:old array=[[1 2 3 4 5]]
+INFO:root:new array=[[ 1  2 69  4  5]]
+INFO:root:[[0. 0. 0.]
+ [0. 0. 0.]
+ [0. 0. 0.]]
+INFO:root:range array:[ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14]
+INFO:root:linearly spaced array:[ 1.  2.  3.  4.  5.  6.  7.  8.  9. 10.]
+INFO:root:Empty array:[[1.02359984e-306 3.56043054e-307]]
+INFO:root:Empty like array
+INFO:root:Identity array:[[1. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [0. 0. 1. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 1. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 1.]]
+INFO:root:Sample array=[ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49]
+INFO:root:Reshaped array:[[ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+  24]
+ [25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+  49]]
+INFO:root:Sample array=[[ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+  24]
+ [25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+  49]]
+INFO:root:Converted array:[ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49]
+INFO:root:Sum of columns:[12 15 18]
+INFO:root:Sum of rows:[ 6 15 24]
+INFO:root:Sample array:[[1 2 3]
+ [4 5 6]
+ [7 8 9]]
+INFO:root:elements:
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:5
+INFO:root:6
+INFO:root:7
+INFO:root:8
+INFO:root:9
+INFO:root:Transposed array:[[1 4 7]
+ [2 5 8]
+ [3 6 9]]
+INFO:root:Number of diamensions:2
+INFO:root:Size of array:9
+INFO:root:Number of bytes used:72
+INFO:root:Index of max element:8
+INFO:root:Index of min element:0
+INFO:root:Sorted indexes :[[0 1 2]
+ [0 1 2]
+ [0 1 2]]
+INFO:root:Sum of the arrays:[[ 4  6  5]
+ [12 11  8]
+ [14 11 18]]
+INFO:root:Product of the arrays:[[ 3  8  6]
+ [32 30 12]
+ [49 24 81]]
+INFO:root:Square-root of the given matrix=[[1.         1.41421356 1.73205081]
+ [2.         2.23606798 2.44948974]
+ [2.64575131 2.82842712 3.        ]]
+INFO:root:Index of all elements that satisfy the fiven condition:(array([1, 1, 2, 2, 2]), array([1, 2, 0, 1, 2]))
+INFO:root:Number of non-zero elements=9

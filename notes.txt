@@ -1,0 +1,1 @@
+revise notes from sciPy.org
